@@ -10,6 +10,10 @@
 
 prove you are non-human by solving a captcha
 
+### Day 2: Corruption Checksum
+
+check the checksum of a spreadsheet
+
 ---
 
 Environment
