@@ -14,6 +14,10 @@ prove you are non-human by solving a captcha
 
 check the checksum of a spreadsheet
 
+### Day 3: Spiral Memory
+
+navigate a spiral memory system
+
 ---
 
 Environment
