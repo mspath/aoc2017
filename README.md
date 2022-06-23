@@ -18,6 +18,10 @@ check the checksum of a spreadsheet
 
 navigate a spiral memory system
 
+### Day 4: High-Entropy Passphrases
+
+check the validity of passphrases
+
 ---
 
 Environment
