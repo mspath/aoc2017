@@ -26,6 +26,10 @@ check the validity of passphrases
 
 follow jump instructions
 
+### Day 6: Memory Reallocation
+
+implement a memory reallocation routine
+
 ---
 
 Environment
