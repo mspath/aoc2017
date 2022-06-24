@@ -22,6 +22,10 @@ navigate a spiral memory system
 
 check the validity of passphrases
 
+### Day 5: A Maze of Twisty Trampolines
+
+follow jump instructions
+
 ---
 
 Environment
