@@ -30,6 +30,10 @@ follow jump instructions
 
 implement a memory reallocation routine
 
+### Day 7: Recursive Circus
+
+help balance a tower of programs
+
 ---
 
 Environment
