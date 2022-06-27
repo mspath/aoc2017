@@ -34,6 +34,14 @@ implement a memory reallocation routine
 
 help balance a tower of programs
 
+### Day 8: I Heard You Like Registers
+
+help the CPU processing registers
+
+### Day 9: Stream Processing
+
+process a stream of characters
+
 ---
 
 Environment
