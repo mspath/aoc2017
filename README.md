@@ -46,6 +46,10 @@ process a stream of characters
 
 find a child process in an infinite grid
 
+### Day 12: Digital Plumber
+
+help fix the broken pipes between programs
+
 ---
 
 Environment
