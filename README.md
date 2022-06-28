@@ -42,6 +42,10 @@ help the CPU processing registers
 
 process a stream of characters
 
+### Day 11: Hex Ed
+
+find a child process in an infinite grid
+
 ---
 
 Environment
