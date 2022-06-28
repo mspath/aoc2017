@@ -1,17 +1,18 @@
 package day11
 
 import java.io.File
-import java.lang.Math.abs
 
 
 fun main() {
     val input = File("data/day11/input.txt").readText().split(",")
-    breakfast(input)
+    val resultBreakfast = breakfast(input)
+    println(resultBreakfast)
+    val resultLunch = lunch(input)
+    println(resultLunch)
 }
 
-fun breakfast(path: List<String>) {
+fun breakfast(path: List<String>): Int {
     val counts = path.groupingBy { it }.eachCount()
-    println(counts)
     val easts = counts.getOrDefault("se", 0) +
             counts.getOrDefault("ne", 0)
     val wests = counts.getOrDefault("sw", 0) +
@@ -23,9 +24,20 @@ fun breakfast(path: List<String>) {
             counts.getOrDefault("se", 0) +
             counts.getOrDefault("sw", 0)
 
+    // we don't need to worry about the specific direction, just vertical and horizontal movement
     val x = kotlin.math.abs(easts - wests)
     val y = kotlin.math.abs(norths - souths)
+    return x + (y - x) / 2
+}
 
-    val result = x + (y - x) / 2
-    println(result)
+fun lunch(path: List<String>): Int {
+    var max = Int.MIN_VALUE
+    var rest = path
+    // the dataset is small enough for brute force
+    while (rest.size > 0) {
+        rest = rest.dropLast(1)
+        val steps = breakfast(rest)
+        if (steps > max) max = steps
+    }
+    return max
 }
