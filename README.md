@@ -50,6 +50,10 @@ find a child process in an infinite grid
 
 help fix the broken pipes between programs
 
+### Day 13: Packet Scanners
+
+help calculate the severity of a scanner
+
 ---
 
 Environment
