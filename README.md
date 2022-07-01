@@ -54,6 +54,10 @@ help fix the broken pipes between programs
 
 help calculate the severity of a scanner
 
+### Day 15: Dueling Generators
+
+help debugging dueling generators
+
 ---
 
 Environment
