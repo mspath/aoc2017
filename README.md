@@ -58,6 +58,10 @@ help calculate the severity of a scanner
 
 help debugging dueling generators
 
+### Day 16: Permutation Promenade
+
+observe a dance of programs
+
 ---
 
 Environment
