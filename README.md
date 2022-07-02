@@ -62,6 +62,10 @@ help debugging dueling generators
 
 observe a dance of programs
 
+### Day 17: Spinlock
+
+understand a spinlock
+
 ---
 
 Environment
