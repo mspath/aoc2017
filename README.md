@@ -66,6 +66,10 @@ observe a dance of programs
 
 understand a spinlock
 
+### Day 18: Duet
+
+recover a frequency from assembly code. unfinished.
+
 ---
 
 Environment
