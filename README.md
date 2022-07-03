@@ -70,6 +70,10 @@ understand a spinlock
 
 recover a frequency from assembly code. unfinished.
 
+### Day 20: Particle Swarm
+
+help the GPU simulating particles
+
 ---
 
 Environment
