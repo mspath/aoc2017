@@ -74,6 +74,10 @@ recover a frequency from assembly code. unfinished.
 
 help the GPU simulating particles
 
+### Day 22: Sporifica Virus
+
+simulate a virus in a grid.
+
 ---
 
 Environment
