@@ -78,6 +78,10 @@ help the GPU simulating particles
 
 simulate a virus in a grid.
 
+### Day 24: Electromagnetic Moat
+
+build a bridge to the CPU
+
 ---
 
 Environment
