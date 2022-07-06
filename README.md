@@ -82,6 +82,10 @@ simulate a virus in a grid.
 
 build a bridge to the CPU
 
+### Day 25: The Halting Problem
+
+build a turing machine.
+
 ---
 
 Environment
@@ -91,4 +95,4 @@ Environment
 
 ---
 
-updated: 2022-06-20
+updated: 2022-07-05

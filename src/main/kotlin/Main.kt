@@ -1,3 +1,3 @@
 fun main() {
-    day24.main()
+    day25.main()
 }
