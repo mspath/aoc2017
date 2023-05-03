@@ -90,8 +90,8 @@ build a turing machine.
 
 Environment
 
-- Kotlin 1.8.10
-- Intellij 2022.3.3
+- Kotlin 1.8.20
+- Intellij 2023.1
 
 ---
 
@@ -99,5 +99,5 @@ Environment
 language: kotlin
 repo: aoc2017
 status: active
-updated: 2023-03-19
+updated: 2023-05-03
 ```
