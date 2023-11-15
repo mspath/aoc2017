@@ -90,8 +90,8 @@ build a turing machine.
 
 Environment
 
-- Kotlin 1.8.20
-- Intellij 2023.1
+- Kotlin 1.9.20
+- Intellij 2023.2.5
 
 ---
 
